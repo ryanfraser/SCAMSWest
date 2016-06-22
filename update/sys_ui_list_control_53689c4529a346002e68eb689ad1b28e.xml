@@ -29,7 +29,6 @@
         <omit_new_button>true</omit_new_button>
         <related_list/>
         <search_method/>
-        <show_labels>false</show_labels>
         <sys_class_name>sys_ui_list_control</sys_class_name>
         <sys_created_by>admin_SHARE</sys_created_by>
         <sys_created_on>2015-11-03 21:29:45</sys_created_on>
